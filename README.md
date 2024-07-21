@@ -1,6 +1,6 @@
 # CCFA_Exam
 Repository to hold code for the final exam of CCFA-661. The prompt is to run various experiments to get best results on the Amazon Review Dataset. We are using the following for the experiments:
-- [Final_Exam_1.ipynb](XGBoost with Bag of Words)
+- [XGBoost with Bag of Words](Final_Exam_1.ipynb)
 - XGBoost with Word2Vec
 - Neural Network with Bag of Words
 - Neural Network with Word2Vec
