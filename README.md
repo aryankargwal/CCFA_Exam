@@ -5,7 +5,7 @@ Repository to hold code for the final exam of CCFA-661. The prompt is to run var
 - [Neural Network with Bag of Words](Final_Exam_3.ipynb)
 - [Neural Network with Word2Vec](Final_Exam_4.ipynb)
 ## Results
-Following are the results for the models
+Following are the results for the models, a detailed report can be accessed [here](Final_Exam.pdf)
 ### XGBoost with Bag of Words
 | Class | Precision | Recall | F1-Score |
 |-------|-----------|--------|----------|
